@@ -98,5 +98,17 @@
   }, {
     "name": "audio",
     "svg": "hardware/svg/production/ic_headset_48px.svg"
+  }, {
+    "name": "replay_5",
+    "svg": "av/svg/production/ic_replay_5_48px.svg"
+  }, {
+    "name": "forward_5",
+    "svg": "av/svg/production/ic_forward_5_48px.svg"
+  }, {
+    "name": "replay_10",
+    "svg": "av/svg/production/ic_replay_10_48px.svg"
+  }, {
+    "name": "forward_10",
+    "svg": "av/svg/production/ic_forward_10_48px.svg"
   }]
 }
